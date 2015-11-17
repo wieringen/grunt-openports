@@ -1,0 +1,17 @@
+{
+  "name": "grunt-openports",
+  "version": "0.0.5",
+  "description": "Grunt wrapper around openport lib.",
+  "homepage": "http://www.baijs.com/grunt-openports",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wieringen/grunt-openports.git"
+  },
+  "author": {
+    "name": "Maarten Baijs",
+    "email": "wieringen@gmail.com"
+  },
+  "dependencies": {
+    "openport": "0.0.4"
+  }
+}
