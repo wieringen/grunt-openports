@@ -3,7 +3,7 @@
 What?
 --------------------------------------
 grunt-openports is a wrapper around openport that finds a open port in a given range. When a open port is found it will be set to the grunt config keys specified.
-You can use this in combination with grunt watch livereload to always have a unique port for example.
+You can use this in combination with grunt watch livereload to always have a unique port for example. This plugin is inspired by the grunt-opentport plugin. I decided to create my own because I didn't like the syntax.
 
 How?
 --------------------------------------
