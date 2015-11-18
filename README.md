@@ -42,7 +42,7 @@ module.exports = function (grunt) {
             },
             html: {
                 files: {
-                    'example/index.html': [ 'example/index.html' ]
+                    'dist/index.html': [ 'example/index.html' ]
                 }
             }
         },
